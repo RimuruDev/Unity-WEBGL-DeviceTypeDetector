@@ -1,0 +1,30 @@
+{
+  "name": "unity-webgl-device-type-detector",
+  "version": "1.0.1",
+  "description": "A Unity script to detect if a WebGL application is running on a mobile device or PC, with support for Unity's Device Simulator.",
+  "author": "RimuruDev",
+  "license": "MIT",
+  "main": "DeviceTypeDetector.cs",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RimuruDev/Unity-WEBGL-DeviceTypeDetector.git"
+  },
+  "keywords": [
+    "unity",
+    "webgl",
+    "device detector",
+    "mobile",
+    "pc",
+    "device simulation",
+    "editor",
+    "rimuru-dev",
+    "rimurudev"
+  ],
+  "bugs": {
+    "email": "rimuru.dev@gmail.com",
+    "url": "https://github.com/RimuruDev/Unity-WEBGL-DeviceTypeDetector/issues"
+  },
+  "homepage": "https://github.com/RimuruDev/Unity-WEBGL-DeviceTypeDetector",
+  "dependencies": {}
+}
