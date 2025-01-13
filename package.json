@@ -1,6 +1,6 @@
 {
   "name": "unity-webgl-device-type-detector",
-  "version": "1.0.1",
+  "version": "1.1.2",
   "description": "A Unity script to detect if a WebGL application is running on a mobile device or PC, with support for Unity's Device Simulator.",
   "author": "RimuruDev",
   "license": "MIT",
